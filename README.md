@@ -72,7 +72,7 @@ The final results are tagged as `working` or `not working` and saved to `have_av
 
 Feel free to reach out if you have any questions or suggestions about this project!
 
-* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/buketozceylan/)
+* **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/buketozceylan/)
 * **GitHub:** [buketozceylan](https://github.com/buketozceylan)
 
 ---
